@@ -1,3 +1,31 @@
 body {
+  background-color: #CC8828;
+  color: #D8C99B;
+}
+h1 {
+  font-family: "Helvetica";
+  color: black;
+  text-align: center;
+}
+h2 {
+  color: black;
+  text-align: center;
+}
+img {
+ width: 600px; 
+}
+img:hover {
+  width: 610px;
+  border: 10px #273E47; 
+}
+p {
+  text-align: center;
+}
 
+table, th {
+  float: center;
+  border: 3px solid black;
+  border-collapse: collapse;
+  padding: 5px
+}
 }
