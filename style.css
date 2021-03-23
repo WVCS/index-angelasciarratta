@@ -29,8 +29,8 @@ p {
   color: white;
   text-align: center;
   font-size: 20px;
-  border-style: rounded;
-  border-color: #EAF27C
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
 .btn {
