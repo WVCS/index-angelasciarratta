@@ -1,1 +1,49 @@
-https://angelasciarratta.github.io/app
+<html>
+  https://index-angelasciarratta/app
+  
+  <body>  
+    <h1> How To Talk (To Family, Friends, Or Even Strangers)
+ </h1>
+    <hr class="rounded" </hr>
+    <h2> An easy guide to small talk and conversation </h2>
+    
+    <hr class="rounded" </hr>
+    
+    <center> 
+      <div class="container">
+  <img src="https://www.nami.org/NAMI/media/NAMI-Redesign/teen-in-discusssion-group.jpg" style="width:85%;">
+  <div class="centered">App</div>
+</div>
+    </center>
+    
+    
+    <hr class="rounded" </hr>
+   
+<center>    
+  <a href="https://wvcs.github.io/index-angelasciarratta/">  
+  <button class="btn home">Home</button>
+    </a>
+  <a href="https://wvcs.github.io/index-angelasciarratta/">
+       <button class="btn more info">More Info</button>
+    </a>
+  <a href="https://wvcs.github.io/index-angelasciarratta/">
+    <button class="btn images">Images</button>
+    </a>
+  <a href="https://wvcs.github.io/index-angelasciarratta/">
+    <button class="btn app">App</button>
+    </center> 
+   </a>
+  
+    <hr class="rounded" </hr>
+    
+    <p> This is the app page. Here you can access an accompanying app for this wesbite. Like this site, the app can help you start conversation. You can even check out the fun quiz on the app, to get your own personalized conversation starter. 
+    </p>
+    
+    <hr class="rounded" </hr>
+    
+   <center>
+           <iframe width="400" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/kExsX5hmsoKShBCEe2XIvv5rrnH3E_gy3Eu5dxX6TvR/embed?nosource"></iframe>
+    </center>
+    
+  </body>
+    </html>
